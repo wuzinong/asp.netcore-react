@@ -1,0 +1,11 @@
+@import "~normalize.css";
+@import './page/grid.scss';
+@import './fonts/_avenir.scss';
+
+body{
+  color:green;
+  font-family: "Avenir Next";
+}
+#container{
+  display: flex;
+}
